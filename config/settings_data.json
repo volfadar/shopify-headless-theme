@@ -9,7 +9,7 @@
 */
 {
   "current": {
-    "storefront_hostname": "https:\/\/arrakis.share.zrok.io\/",
+    "storefront_hostname": "https:\/\/arrakis.share.zrok.io",
     "content_for_index": [
 
     ]
